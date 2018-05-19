@@ -12,7 +12,7 @@ namespace Chap18___Making_Your_Own_Classes
     {
         static void Main(string[] args)
         {
-
+            kljlk
 
 
             Read();
